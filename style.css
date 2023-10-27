@@ -1,0 +1,194 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+#main {
+    position: relative;
+    background-color: white;
+    height: 100%;
+}
+
+#side {
+    position: absolute;
+    left: 0%;
+    top: 18%;
+    height: 500px;
+    width: 300px;
+    opacity: 15%;
+}
+
+#boy {
+    position: absolute;
+    left: 80%;
+    height: 93%;
+    top: 7%;
+}
+
+#nike {
+    position: absolute;
+    background-color: transparent;
+    top: 3%;
+    left: 6%;
+    height: 5%;
+    width: 5%;
+}
+#text1{
+    position: absolute;
+    top: 8%;
+    left: 6%;
+    font-size: 17px;
+    font-style: inherit;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#insta{
+    position: absolute;
+    top: 4%;
+    left: 73%;
+    background-color: transparent;
+    height: 2.5%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#twitter{
+    position: absolute;
+    top: 4.4%;
+    left: 75.5%;
+    background-color: transparent;
+    height: 2%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#facebook{
+    position: absolute;
+    top: 3.8%;
+    left: 77.9%;
+    background-color: transparent;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 17px;
+    font-weight: 700;
+
+}
+#en{
+    position: absolute;
+    top: 4%;
+    left: 86%;
+    background-color: transparent;
+    font-size: 15px;
+
+}#ena{
+    position: absolute;
+    top: 3.4%;
+    left: 88.3%;
+
+}
+#ena1{
+    position: absolute;
+    top: 3.8%;
+    left: 90.4%;
+    height: 2.1%;
+}
+#text3{
+    position: absolute;
+    top: 23.8%;
+    left: 10%;
+    font-size: 40px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#text4{
+    position: absolute;
+    top: 31%;
+    left: 10%;
+    font-size: 60px;
+    color: rgb(205, 200, 200);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#text5{
+    position: absolute;
+    top: 31%;
+    left: 24%;
+    font-size: 60px;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     
+}
+#text6{
+    position: absolute;
+    top: 31%;
+    left: 36%;
+    font-size: 60px;
+    
+    color: rgb(205, 200, 200);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   
+}
+
+#text7{
+    position: absolute;
+    top: 43.7%;
+    left: 10.2%;
+    font-size: 11px;
+    font-weight: 2000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#text8{
+    position: absolute;
+    top: 57%;
+    left: 21.8%;
+    font-size: 10px;
+    font-weight: 2000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#line2{
+    position: absolute;
+    top: 59%;
+    left: 14%;
+
+}
+#text9{
+    position: absolute;
+    top: 61%;
+    left: 13.7%;
+    font-size: 10px;
+    font-weight: 2000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#music{
+    position: absolute;
+    bottom: 0%;
+    left: 54%;
+    background-color: transparent;
+}
+#music2{
+    position: absolute;
+    bottom: 0.2%;
+    left: 49.2%;
+    background-color: transparent;
+}
+#button1{
+    position: absolute;
+    color: black;
+    border: 70%;
+    border-color:grey;
+    left: 13.5%;
+    top: 66%;
+    width: 11.5%;
+    height: 4.8%;
+    background-color: white;
+}
+#button2{
+    position: absolute;
+    color: white;
+    border: 70%;
+    border-color:grey;
+    left: 27%;
+    top: 66%;
+    width: 14%;
+    height: 4.8%;
+    background-color:black;
+}
